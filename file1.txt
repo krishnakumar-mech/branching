@@ -1,2 +1,1 @@
-this is my new file
-git
+git is a software tool intro
